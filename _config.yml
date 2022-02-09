@@ -23,10 +23,10 @@ name                     : "좌충우돌 분석 공부"
 description              : "An amazing website."
 url                      : "https://wooknote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : wooknote/wooknote.github.com
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "기록하는 분석가 Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,17 +102,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "시욱쓰의 이모저모"
+  name             : "이시욱"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "seoul, repulbic of korea"
-  email            : siwook9295@naver.com
+  location         : "seoul, Rpulbic of Korea"
+  email            : "siwook9295@naver.com"
   job              : student in korea univ. in MS statistic
   instagram        : 2_siwook
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "siwook9295@naver.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/2_siwook"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,15 +128,16 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wooknote"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/2_siwook"
-    - label: "Job"
-      icon: "fab fa-fw fa-job
      
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "siwook9295@naver.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/2_siwook"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -149,10 +153,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Job"
-      icon: "fab fa-fw fa-job"
-      # url:
-
 
 # Reading Files
 include:

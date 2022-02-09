@@ -108,6 +108,7 @@ author:
   location         : "seoul, repulbic of korea"
   email            : siwook9295@naver.com
   job              : student in korea univ. in MS statistic
+  instagram        : 2_siwook
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "job"
+      icon: "fab fa-fw fa-job
+     
 # Site Footer
 footer:
   links:

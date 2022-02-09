@@ -134,10 +134,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "siwook9295@naver.com"
+      # url: "siwook9295@naver.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/2_siwook"
+      # url: "https://instagram.com/2_siwook"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
